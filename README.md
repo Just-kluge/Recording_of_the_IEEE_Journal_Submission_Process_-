@@ -7,10 +7,10 @@
 3.<font color="red">出现登录界面，如果之前注册IEEE账号的话看向右上角"Already have an IEEE account? Sign In" ，点击 Sign In。</font>
 <img width="1261" height="865" alt="image" src="https://github.com/user-attachments/assets/4b991aca-a6d7-466b-9680-e3aa132dc7bc" />
 
-4.<font color="red">此时一共有10关要过。</font>
+4.此时一共有10关要过（如上图所示）。
 <img width="559" height="831" alt="image" src="https://github.com/user-attachments/assets/556c910a-1a58-4af7-b401-d9b01eebb4f6" />
 
-5.<font color="red">第一关仅需要确定Article Type然后勾选几个注意事项即可。</font>
+5.第一关仅需要确定Article Type然后勾选几个注意事项即可。
 <img width="1515" height="810" alt="image" src="https://github.com/user-attachments/assets/6726eca4-1142-4a48-9d81-d4f88116f4a5" />
 
 6。<font color="red">第二关Upload Manuscript需要上传文章 LaTeX与PDF版本，还可以上传cover letter,summary of changes，论文之前发布版本和与之前版本相比增加部分内容标记版本PDF。</font>
